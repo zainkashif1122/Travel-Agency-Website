@@ -10,11 +10,11 @@ Check out the live site here: [World Travel Agency Website](https://worldtravela
 
 ## Project Structure
 
-- home.html: The HTML file that contains the home page of the website.
-- about.html: The HTML file that contains the about page of the website.
-- contact.html: The HTML file that contains the contact page of the website.
-- css/style.css: The folder containing the style.css file, which has all the CSS styling for the website.
-- images.zip: A zip file containing all images used in the website.
+- [home.html](home.html): The HTML file that contains the home page of the website.
+- [about.html](about.html): The HTML file that contains the about page of the website.
+- [contact.html](contact.html): The HTML file that contains the contact page of the website.
+- [css/style.css](css): The folder containing the style.css file, which has all the CSS styling for the website.
+- [](images.zip): A zip file containing all images used in the website.
 
 ## How to View the Website
 
