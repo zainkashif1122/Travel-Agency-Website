@@ -31,16 +31,30 @@ Check out the live site here: [World Travel Agency Website](https://worldtravela
      ```
    - Open `home.html`, `about.html`, or `contact.html` in your preferred web browser to view the website locally.
 
-## Features
+## Live Preview
 
-- **Responsive Design**: Adapts seamlessly to different screen sizes, providing a smooth browsing experience on both desktop and mobile devices.
-- **CSS Layout**: Utilizes Float and Flexbox for an organized, visually attractive layout.
-- **Easy Navigation**: Provides simple and intuitive navigation for exploring destinations and services.
+Get a glimpse of how the World Travel Agency website functions across various devices with the following screen recordings:
+
+- **Desktop Experience:** Watch how the website seamlessly adapts to a larger screen, showcasing its clean layout and smooth navigation.
+- **Mobile Experience:** See how the responsive design optimizes the website for mobile, ensuring a sleek and user-friendly interface on smaller screens.
+
+Check out the videos below:
+
+- [Desktop View Recording](DesktopView.mp4)
+- [Mobile View Recording](MobileView.mp4) 
+
+> **Note:** The quality of these screen recordings has been reduced to comply with GitHub's 25MB file size limit.
 
 ## Technologies Used
 
 - **HTML5**: Used for structuring the web pages.
 - **CSS3**: Used for styling and layout, including Float, Flexbox, and Grid techniques.
+
+## Features
+
+- **Responsive Design**: Adapts seamlessly to different screen sizes, providing a smooth browsing experience on both desktop and mobile devices.
+- **CSS Layout**: Utilizes Float and Flexbox for an organized, visually attractive layout.
+- **Easy Navigation**: Provides simple and intuitive navigation for exploring destinations and services.
 
 ## Future Improvements
 
