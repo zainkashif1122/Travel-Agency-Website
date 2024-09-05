@@ -1,6 +1,6 @@
 # World Travel Agency Website
 
-**Take a look at the desktop view of my first responsive travel agency website! ✈️**
+**Take a look at my first responsive travel agency website! ✈️**
 
 ## Description
 
