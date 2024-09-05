@@ -40,8 +40,8 @@ Get a glimpse of how the World Travel Agency website functions across various de
 
 Check out the videos below:
 
-- [Desktop View Recording](DesktopView.mp4)
-- [Mobile View Recording](MobileView.mp4) 
+- [Desktop View Screen Recording](DesktopView.mp4)
+- [Mobile View Screen Recording](MobileView.mp4) 
 
 > **Note:** The quality of these screen recordings has been reduced to comply with GitHub's 25MB file size limit.
 
