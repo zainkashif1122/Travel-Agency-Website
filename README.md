@@ -1,5 +1,7 @@
 # World Travel Agency Website
 
+![Website Preview](DesktopView.mp4)
+
 **Take a look at my first responsive travel agency website! ✈️**
 
 ## Description
