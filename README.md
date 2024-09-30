@@ -2,6 +2,8 @@
 
 **Take a look at my first responsive travel agency website! ✈️**
 
+![Desktop Preview](IMG_0715.jpeg)
+
 ## Description
 
 This is my first fully responsive travel agency website, created using **HTML** and **CSS** to provide a visually appealing and adaptive layout. The website is designed to look great on both desktop and mobile devices, allowing users to easily explore various travel destinations and services.
@@ -41,7 +43,7 @@ Get a glimpse of how the World Travel Agency website functions across various de
 Check out the videos below:
 
 - [Desktop View Screen Recording](DesktopView.mp4)
-- [Mobile View Screen Recording](MobileView.mp4) 
+- [Mobile View Screen Recording](MobileView.mp4)
 
 > **Note:** The quality of these screen recordings has been reduced to comply with GitHub's 25MB file size limit.
 
@@ -49,6 +51,8 @@ Check out the videos below:
 
 - **HTML5**: Used for structuring the web pages.
 - **CSS3**: Used for styling and layout, including Float, Flexbox, and Grid techniques.
+- **VS Code**: Used for writing and compiling the code.
+- **Browser**: Used for viewing the output result.
 
 ## Features
 
