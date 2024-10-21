@@ -8,19 +8,19 @@
 
 This is my first fully responsive travel agency website, created using **HTML** and **CSS** to provide a visually appealing and adaptive layout. The website is designed to look great on both desktop and mobile devices, allowing users to easily explore various travel destinations and services.
 
-Check out the live site here: [World Travel Agency Website](https://worldtravelagencywebsitebyzk.netlify.app/)
+Check out the live site here: [`World Travel Agency Website`](https://worldtravelagencywebsitebyzk.netlify.app/)
 
 ## Project Structure
 
-- [home.html](home.html): The HTML file that contains the home page of the website.
-- [about.html](about.html): The HTML file that contains the about page of the website.
-- [contact.html](contact.html): The HTML file that contains the contact page of the website.
-- [css/style.css](css): The folder containing the style.css file, which has all the CSS styling for the website.
-- [images.zip](images.zip): A zip file containing all images used in the website.
+- [`home.html`](home.html): The HTML file that contains the home page of the website.
+- [`about.html`](about.html): The HTML file that contains the about page of the website.
+- [`contact.html`](contact.html): The HTML file that contains the contact page of the website.
+- [`css/style.css`](css): The folder containing the style.css file, which has all the CSS styling for the website.
+- [`images.zip`](images.zip): A zip file containing all images used in the website.
 
 ## How to View the Website
 
-- **Live Website**: You can view the live version of the website through the following link: [World Travel Agency Website](https://worldtravelagencywebsitebyzk.netlify.app/).
+- **Live Website**: You can view the live version of the website through the following link: [`World Travel Agency Website`](https://worldtravelagencywebsitebyzk.netlify.app/).
 
 - **Local Development**:
    - Clone the repository using the following command:
@@ -31,7 +31,7 @@ Check out the live site here: [World Travel Agency Website](https://worldtravela
      ```bash
      cd world-travel-agency
      ```
-   - Open `home.html`, `about.html`, or `contact.html` in your preferred web browser to view the website locally.
+   - Open [`home.html`](home.html), [`about.html`](about.html), or [`contact.html`](contact.html) in your preferred web browser to view the website locally.
 
 ## Live Preview
 
@@ -42,8 +42,8 @@ Get a glimpse of how the World Travel Agency website functions across various de
 
 Check out the videos below:
 
-- [Desktop View Screen Recording](DesktopView.mp4)
-- [Mobile View Screen Recording](MobileView.mp4)
+- [`Desktop View Screen Recording`](DesktopView.mp4)
+- [`Mobile View Screen Recording`](MobileView.mp4)
 
 > **Note:** The quality of these screen recordings has been reduced to comply with GitHub's 25MB file size limit.
 
